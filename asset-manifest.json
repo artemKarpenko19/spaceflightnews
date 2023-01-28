@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spaceflightnews/static/css/main.f2102cb1.css",
+    "main.js": "/spaceflightnews/static/js/main.ea88ff79.js",
+    "index.html": "/spaceflightnews/index.html",
+    "main.f2102cb1.css.map": "/spaceflightnews/static/css/main.f2102cb1.css.map",
+    "main.ea88ff79.js.map": "/spaceflightnews/static/js/main.ea88ff79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2102cb1.css",
+    "static/js/main.ea88ff79.js"
+  ]
+}
