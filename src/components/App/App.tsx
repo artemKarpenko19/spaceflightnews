@@ -14,8 +14,8 @@ function App() {
       <div className="App">
         <Routes>
 
-          <Route  path="/:id" element={<SingleArticlePage/>} />
-          <Route  path="/" element={<MainPage/>}/>
+          <Route  path="/spaceflightnews/:id" element={<SingleArticlePage/>} />
+          <Route  path="/spaceflightnews" element={<MainPage/>}/>
           <Route path="*" element={<Page404/>} />
         
         </Routes>

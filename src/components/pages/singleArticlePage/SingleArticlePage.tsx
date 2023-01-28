@@ -72,7 +72,7 @@ const View = (props: ViewProps) => {
                     <h2 className='article-page__text__title'>{props.title}</h2>
                     <ArticleText/>  
                 </div>
-                <NavLink to='/' className="article-page__link">Back to all</NavLink>
+                <NavLink to='/spaceflightnews' className="article-page__link">Back to all</NavLink>
             </div>
         </div>
     )
